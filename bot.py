@@ -4,8 +4,8 @@ from config import *
 import pyromod
 import pyrogram.utils
 
-pyrogram.utils.MIN_CHAT_ID = -999999999999
-pyrogram.utils.MIN_CHANNEL_ID = -100999999999999
+pyrogram.utils.MIN_CHAT_ID = -1002051194704
+pyrogram.utils.MIN_CHANNEL_ID = -1002051194704
 
 
 
