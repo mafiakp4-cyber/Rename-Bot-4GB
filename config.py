@@ -3,10 +3,10 @@ import os
 
 
 # Required Variables Config
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
+API_ID = int(os.environ.get("API_ID", "21302239"))
+API_HASH = os.environ.get("API_HASH", "1560930c983fbca6a1fcc8eab760d40d")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-ADMIN = int(os.environ.get("ADMIN", ""))
+ADMIN = int(os.environ.get("ADMIN", "1840465305"))
 
 
 # Premium 4GB Renaming Client Config
@@ -14,13 +14,13 @@ STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1002051194704")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002051194704"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "")
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Kanha:kanha54321@kanha.hnytqah.mongodb.net/Kanha?retryWrites=true&w=majority&appName=Kanha")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "kanha")
 
 
 # Other Variables Config
