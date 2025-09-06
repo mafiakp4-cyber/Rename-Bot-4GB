@@ -40,7 +40,7 @@ async def start(client, message):
         InlineKeyboardButton("💬 Support", url="https://t.me/+Tbkw7GQzcB05M2U9")],
         [InlineKeyboardButton("🛠️ Help", callback_data='help'),
         InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="@kanha_pareek")]
+        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/kanha_pareek")]
         ])
     
     await message.reply_photo(
