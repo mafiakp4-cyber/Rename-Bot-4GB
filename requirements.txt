@@ -1,7 +1,8 @@
-
 pyrogram==2.0.106
-tgcrypto==1.4.2
+tgcrypto==1.2.5
 pyromod==1.0.10
 humanize==4.8.0
 pymongo==4.7.1
 dnspython==2.3.0
+Pillow==10.0.0
+hachoir==4.1.1
